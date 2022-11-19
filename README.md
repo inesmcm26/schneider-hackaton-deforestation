@@ -5,6 +5,10 @@ Deforestation is the permanent removal of standing forests, which occurs for a v
 It is important to stop deforestation as soon as possible, before the damage is irreversible. There are many ways to fight deforestation. This challenge will consist of using satellites' images of the earth's surface in order to detect, as soon as possible, areas in the midst of deforestation and prevent its expansion.
 
 
+### How to run:
+
+In order to run our code, you need to create a folder named 'hackaton_deforestation' in your google drive and insert all the datasets
+
 ### Dataset:
 
 For this challenge, you have satellite images and information about their latitude, longitude, year of shoot and type of deforestation.
